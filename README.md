@@ -107,4 +107,4 @@ markdown의 주 목적은 사람들이 읽기 쉽고 쓰기 쉬운 문서를 만
 [배지 달기(언어, 기술, 개발 도구, 자격)]
 (https://simpleicons.org)
 
-<img src="https://img.shields.io/badge/원하는 아이콘.svg?&style=for-the-badge&logo=벳지내 글자&logoColor=벳지 글자 색"/>
+<img src="https://img.shields.io/badge/java.svg?&style=for-the-badge&logo=java&logoColor=white"/>
